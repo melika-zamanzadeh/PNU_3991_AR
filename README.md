@@ -12,7 +12,9 @@
   
 ------------------
 
-[مدرک جاوا اسکریپت](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/CamScanner%2011-05-2020%2010.49.01_1.pdf)
+[Java Script](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/CamScanner%2011-05-2020%2010.49.01_1.pdf)
+
+[jlord Pathwork](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/Capture.pdf)
 
 -------------------
 # گروه های ملیکا زمان زاده
