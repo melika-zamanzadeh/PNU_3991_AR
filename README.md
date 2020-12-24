@@ -16,9 +16,9 @@
 
 [Jlord Pathwork](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/Capture.pdf)
 
-[Type latex page 76 77 78](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/m.zamanzadeh.pdf)
+[Type latex page 76 77 78 pdf](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/m.zamanzadeh.pdf)
 
-[Type latex page 76 77 78](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/m.zamanzadeh.tex)
+[Type latex page 76 77 78 tex](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/m.zamanzadeh.tex)
 
 -------------------
 # گروه های ملیکا زمان زاده
