@@ -24,19 +24,19 @@
 
 ### فعالیت گروهی
 
-[معرفی یک درس مشابه در دانشگاههای دیگر](https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%D9%88_%D8%B1%D9%88%D8%B4%D9%87%D8%A7%DB%8C_%D9%BE%DA%98%D9%88%D9%87%D8%B4_%DA%A9%DB%8C%D9%81%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A2%D8%B2%D8%A7%D8%AF_%D8%B9%D9%84%D9%88%D9%85_%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA)
+[معرفی یک درس مشابه در دانشگاههای دیگر](https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%D9%88_%D8%B1%D9%88%D8%B4%D9%87%D8%A7%DB%8C_%D9%BE%DA%98%D9%88%D9%87%D8%B4_%DA%A9%DB%8C%D9%81%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A2%D8%B2%D8%A7%D8%AF_%D8%B9%D9%84%D9%88%D9%85_%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%A)
 
-###معرفی روش پژوهش پایان نامه
+[معرفی روش پژوهش پایان نامه](http://methods.sagepub.com/About)
 
 computer assisted qualitative data analysis
 
-http://methods.sagepub.com/About
 
 --------------------
  
 # گروه های ملیکا زمان زاده
 
-1. G-R01
+1. G-R02
+
     1. [_RPM02-20_فاطمه دوستاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A)    
     1. [_RPM02-26_مليكا زمان زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/26_%D9%85%D9%84%D9%8A%D9%83%D8%A7%20%D8%B2%D9%85%D8%A7%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87)   
     1. [_RPM02-59_زهره مشمول](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/59_%D8%B2%D9%87%D8%B1%D9%87%20%D9%85%D8%B4%D9%85%D9%88%D9%84)       
