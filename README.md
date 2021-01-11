@@ -13,19 +13,19 @@
 ------------------
 ### ارزیابی
 
-- ارزیابی عمومی
+- بخش عمومی
 
 
-[ارزیابی انگیزه نامه و رزومه]()
+[ارزیابی انگیزه نامه و رزومه](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/MZ_CV_CheckList_AR_3991.pdf)
 
 
-[خلاصه ارزیابی بخش عمومی]()
+[خلاصه ارزیابی بخش عمومی](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/MZ_GeneralSection_CheckList_AR_3991.pdf)
 
 
-- ارزیابی دروس تخصصی
+- بخش دروس تخصصی
 
 
-[خلاصه ارزیابی درس روش پژوهش و ارائه]()
+[خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/MZ_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 
 ------------------
